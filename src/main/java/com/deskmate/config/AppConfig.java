@@ -26,4 +26,5 @@ public class AppConfig {
         return new BookingController(bookingService);
     }
 
+
 }
